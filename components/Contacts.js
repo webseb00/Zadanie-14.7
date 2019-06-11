@@ -8,7 +8,7 @@ var Contacts = React.createClass({
 		});
 
 		return (
-			<ul className={'contactList'}>
+			<ul className='contactList'>
 				{contacts}
 			</ul>
 		);
